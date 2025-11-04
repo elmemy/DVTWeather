@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  DVTWeather
+
+  Created by Elmemy on 04/11/2025.
+  
+*/
+/* General */
+"loading_weather" = "Loading Weather...";
+"five_day_forecast" = "5 Day Forecast";
+"unable_to_load" = "Unable to Load";
+"try_again" = "Try Again";
+"no_weather_data" = "No Weather Data";
+"pull_to_refresh" = "Pull down to refresh or check your connection";
+"today" = "Today";
+"tomorrow" = "Tomorrow";
+
+/* Network Errors */
+"error_invalid_url" = "Invalid URL.";
+"error_invalid_response" = "Invalid server response.";
+"error_decoding_failed" = "Failed to decode server response.";
+
+/* Location Errors */
+"error_location_not_authorized" = "Location access is not authorized.";
+
+/* User-Friendly Weather Messages */
+"error_weather_service_unreachable" = "Unable to connect to the weather service.";
+"error_weather_service_unavailable" = "Weather service is temporarily unavailable.";
+"error_weather_data_unprocessable" = "Unable to process weather data.";
+"error_weather_generic" = "Unable to load weather forecast. Please try again.";
